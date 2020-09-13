@@ -1,0 +1,34 @@
+Nome: Gabriel Nascimento Silva
+RA: 1460682023009
+
+I. Windows Explorer
+
+DADO: Gerenciador de arquivos e pastas incluso nas distribuições do Microsoft Windows.
+
+INFORMAÇÃO: É utilizado para a cópia, exclusão, organização, movimentação e todas as atividades de gerenciamento de 
+arquivos.Seu ícone é uma pasta amarela e o nome do seu arquivo é Explorer.exe, o qual normalmente se encontra em 
+C:\Windows.
+
+CONHECIMENTO: É uma árvore de pastas hierarquizada que mostra todas as unidades de disco, a lixeira a área de trabalho ou
+desktop. O botão iniciar há todos os comandos para os programas.
+
+
+II. G=71    (DECIMAL)   01000111
+    A=97    (DECIMAL)   01100001
+    B=98    (DECIMAL)   01100010
+    R=114   (DECIMAL)   01110010
+    I=105   (DECIMAL)   01101001
+    E=101   (DECIMAL)   01100101
+    L=108   (DECIMAL)   01101100
+    S=83    (DECIMAL)   01010011 
+    I=105   (DECIMAL)   01101001
+    L=108   (DECIMAL)   01101100
+    V=118   (DECIMAL)   01110110
+    A=97    (DECIMAL)   01100001
+
+
+III. GOOGLE CHROME  (https://www.google.com.br/)
+
+Ele possui tecnologias de defesa eficazes e de ponta, quando falamos no google vemos a preocupação que tem quanto a sua 
+segurança.
+Apesar de ter algumas falhas, sua criptografia é eficaz e ajuda a manter uma boa utilização em sua navegação.
